@@ -1,7 +1,7 @@
 # Generative Art In Blender ✨
 
 ### Description
-{mini project description goes here...}
+Abstract art using nodes and programming in blender.
 
 *You are welcome to contribute to this repo. See the [**CONTRIBUTING.md**](./CONTRIBUTING.md) for more info*
 
